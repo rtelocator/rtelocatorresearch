@@ -1,0 +1,2 @@
+long s = getDataItem(this.maxMiddleIndex).getPeriod().getStart().getTime();
+long e = getDataItem(this.maxMiddleIndex).getPeriod().getStart().getTime();

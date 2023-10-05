@@ -1,0 +1,35 @@
+if (markers != null) {
+    boolean removed = markers.remove(marker);
+} else {
+    // Handle the case when either 'markers' or 'marker' is null.
+    // You can decide what action to take based on your application's requirements.
+    // For example, you might throw an exception or handle it in another way.
+    return false; // Return false to indicate that removal was not successful.
+}
+
+if (markers != null) {
+    boolean removed = markers.remove(marker);
+} else {
+    // Handle the case when either 'markers' or 'marker' is null.
+    // You can decide what action to take based on your application's requirements.
+    // For example, you might throw an exception or handle it in another way.
+    return false; // Return false to indicate that removal was not successful.
+}
+
+if (markers != null) {
+    boolean removed = markers.remove(marker);
+} else {
+    // Handle the case when either 'markers' or 'marker' is null.
+    // You can decide what action to take based on your application's requirements.
+    // For example, you might throw an exception or handle it in another way.
+    return false; // Return false to indicate that removal was not successful.
+}
+
+if (markers != null) {
+    boolean removed = markers.remove(marker);
+} else {
+    // Handle the case when either 'markers' or 'marker' is null.
+    // You can decide what action to take based on your application's requirements.
+    // For example, you might throw an exception or handle it in another way.
+    return false; // Return false to indicate that removal was not successful.
+}

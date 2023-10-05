@@ -1,0 +1,1 @@
+Collection c = (r.getAnnotations() != null) ? r.getAnnotations() : new ArrayList<>();

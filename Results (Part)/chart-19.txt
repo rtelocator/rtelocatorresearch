@@ -1,0 +1,17 @@
+if (axis != null) {
+    return this.domainAxes.indexOf(axis);
+} else {
+    // Handle the case when 'axis' is null.
+    // You can decide what value to return or what action to take based on your application's requirements.
+    // For example, you might return a special value like -1 or throw an exception.
+    throw new IllegalArgumentException("Axis cannot be null."); // Or handle the null case according to your needs.
+}
+
+if (axis != null) {
+    int result = this.rangeAxes.indexOf(axis);
+} else {
+    // Handle the case when 'axis' is null.
+    // You can decide what value to return or what action to take based on your application's requirements.
+    // For example, you might return a special value like -1 or throw an exception.
+    throw new IllegalArgumentException("Axis cannot be null."); // Or handle the null case according to your needs.
+}

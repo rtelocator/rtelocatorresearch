@@ -1,0 +1,3 @@
+} else if (n.getJSType() != null && parent.isAssign()) {
+    // Generate a warning message or log it.
+    System.out.println("Warning: A warning message here.");
