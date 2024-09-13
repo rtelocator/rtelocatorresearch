@@ -16,5 +16,5 @@ to automatically fix the fault causing the RTE. Empirical evaluation on real-wor
 effectiveness of RTE-Locator in achieving high accuracy for RTE localization. In the study on Defects4J, RTELocator
 achieved 15.5%, 3.5%, and 2.9% relatively higher in top-1, top-3, and top-5 accuracies, respectively
 than the next best state-of-the-art FL approach. We also conducted an experiment to show RTE-Locator’s
-usefulness in automated program repair (APR). The combination of RTE-Locator and GPT-3.5 fixed 8
+usefulness in automated program repair (APR). The combination of RTE-Locator and GPT-4 fixed 8
 more bugs (16.3% higher) than the next best baseline APR model when combining with its default fault locator.
